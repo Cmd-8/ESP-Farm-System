@@ -1,7 +1,7 @@
 # ESP-Farm-System
 Auto Farming System ESP-32
 
-Read ESP Auto Greenhouse Farm.pdf for more detail
+Read "ESP Auto Greenhouse Farm.pdf" for more detail
 
 STL models for 3D printing 
 
