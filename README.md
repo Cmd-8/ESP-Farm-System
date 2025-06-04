@@ -19,4 +19,5 @@ on sensor readings, ensuring plants receive the correct amount of water. L.ESP
 manages the lighting system, providing the lights turn on at a fixed time each day. 
 Sunflower tracks the sun's position by adjusting its motor to align with the azimuth 
 and elevation of the sun, using monthly average data from a sun-tracking website. 
-This feature makes the system self-sufficient. The 3D model design of
+This feature makes the system self-sufficient. The 3D model design of sunflower 
+has leaves sticking out from the stem similar to an actual sunflower. 
