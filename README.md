@@ -21,16 +21,3 @@ Sunflower tracks the sun's position by adjusting its motor to align with the azi
 and elevation of the sun, using monthly average data from a sun-tracking website. 
 This feature makes the system self-sufficient. The 3D model design of sunflower 
 has leaves sticking out from the stem similar to an actual sunflower. 
-
-
-Parts: 
-4x ESP-32  
-1x BME280 
-2-5x Capacitive soil moisture sensor 
-1-2x Relay Module 
-1x Peristaltic Liquid Pump or 1x Plastic Water Solenoid Valve 
-1x l298n motor driver 
-1x Solar panel 
-2x waterproof Nema 17 or 23 motor 
-1x Power station or some form of power system 
-1x CNC Sheild and 2x DRV8825 
